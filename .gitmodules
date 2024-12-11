@@ -1,0 +1,3 @@
+[submodule "newton_api_wrapper"]
+	path = newton_api_wrapper
+	url = https://github.com/chamorin/newton-api-wrapper.git
