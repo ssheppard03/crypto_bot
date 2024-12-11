@@ -1,0 +1,5 @@
+TA-lib
+numpy
+websocket-client
+python-socketio
+requests
