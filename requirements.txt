@@ -1,5 +1,4 @@
 TA-lib
 numpy
-websocket-client
-python-socketio
-requests
+python-kraken-sdk
+python-dotenv
